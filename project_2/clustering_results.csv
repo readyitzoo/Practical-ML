@@ -1,0 +1,11 @@
+Sentence,K-Medoids Cluster,LDA Topic
+Data science is an interdisciplinary field.,0,0
+Machine learning is a subset of AI.,2,0
+Deep learning is a type of machine learning.,2,0
+Python is a popular programming language for data science.,0,2
+AI is transforming industries.,1,0
+Natural Language Processing is a branch of AI.,1,2
+Clustering is an unsupervised learning method.,3,1
+K-means is a clustering algorithm.,3,2
+K-medoids is a robust clustering method.,3,1
+LDA is used for topic modeling.,0,1
